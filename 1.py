@@ -7,4 +7,5 @@ def add(a, b):
 
 print(add(1, 2))
 print(add(3, 4))
+""" this is a random comment in feature branch 2"""
 print(add(5, 6))
