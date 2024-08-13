@@ -1,3 +1,4 @@
 print("hello world")
-def hello():
-    pass
+
+a = 10
+print(a)
